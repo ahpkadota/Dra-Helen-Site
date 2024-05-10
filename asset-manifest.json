@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Dra-Helen-Site/static/css/main.6145a16d.css",
-    "main.js": "/Dra-Helen-Site/static/js/main.8605253a.js",
+    "main.js": "/Dra-Helen-Site/static/js/main.7b2c0498.js",
     "static/media/helen-main.jpg": "/Dra-Helen-Site/static/media/helen-main.f49e08db06446a0e62e8.jpg",
     "static/media/helen-academic.jpg": "/Dra-Helen-Site/static/media/helen-academic.18edccc14da982fa42bf.jpg",
     "static/media/helen-carousel2.jpg": "/Dra-Helen-Site/static/media/helen-carousel2.f8b0575b5f0d6cccdaa8.jpg",
@@ -10,10 +10,10 @@
     "static/media/livro-primeiros-contatos.jpg": "/Dra-Helen-Site/static/media/livro-primeiros-contatos.2d26b3a544d39447a29e.jpg",
     "index.html": "/Dra-Helen-Site/index.html",
     "main.6145a16d.css.map": "/Dra-Helen-Site/static/css/main.6145a16d.css.map",
-    "main.8605253a.js.map": "/Dra-Helen-Site/static/js/main.8605253a.js.map"
+    "main.7b2c0498.js.map": "/Dra-Helen-Site/static/js/main.7b2c0498.js.map"
   },
   "entrypoints": [
     "static/css/main.6145a16d.css",
-    "static/js/main.8605253a.js"
+    "static/js/main.7b2c0498.js"
   ]
 }
