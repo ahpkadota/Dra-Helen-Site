@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Dra-Helen-Site/static/css/main.6145a16d.css",
-    "main.js": "/Dra-Helen-Site/static/js/main.89d2480e.js",
-    "static/media/helen-main.jpg": "/Dra-Helen-Site/static/media/helen-main.f49e08db06446a0e62e8.jpg",
-    "static/media/helen-academic.jpg": "/Dra-Helen-Site/static/media/helen-academic.18edccc14da982fa42bf.jpg",
-    "static/media/helen-carousel2.jpg": "/Dra-Helen-Site/static/media/helen-carousel2.f8b0575b5f0d6cccdaa8.jpg",
-    "static/media/helen-carousel1.jpg": "/Dra-Helen-Site/static/media/helen-carousel1.1e4952128415a9690da3.jpg",
-    "static/media/livro-fotopoemas.jpg": "/Dra-Helen-Site/static/media/livro-fotopoemas.8f82eca7fb2a4794b8cb.jpg",
-    "static/media/livro-primeiros-contatos.jpg": "/Dra-Helen-Site/static/media/livro-primeiros-contatos.2d26b3a544d39447a29e.jpg",
-    "index.html": "/Dra-Helen-Site/index.html",
-    "main.6145a16d.css.map": "/Dra-Helen-Site/static/css/main.6145a16d.css.map",
-    "main.89d2480e.js.map": "/Dra-Helen-Site/static/js/main.89d2480e.js.map"
+    "main.css": "/static/css/main.6145a16d.css",
+    "main.js": "/static/js/main.fc8e8a55.js",
+    "static/media/helen-main.jpg": "/static/media/helen-main.f49e08db06446a0e62e8.jpg",
+    "static/media/helen-academic.jpg": "/static/media/helen-academic.18edccc14da982fa42bf.jpg",
+    "static/media/helen-carousel2.jpg": "/static/media/helen-carousel2.f8b0575b5f0d6cccdaa8.jpg",
+    "static/media/helen-carousel1.jpg": "/static/media/helen-carousel1.1e4952128415a9690da3.jpg",
+    "static/media/livro-fotopoemas.jpg": "/static/media/livro-fotopoemas.8f82eca7fb2a4794b8cb.jpg",
+    "static/media/livro-primeiros-contatos.jpg": "/static/media/livro-primeiros-contatos.2d26b3a544d39447a29e.jpg",
+    "index.html": "/index.html",
+    "main.6145a16d.css.map": "/static/css/main.6145a16d.css.map",
+    "main.fc8e8a55.js.map": "/static/js/main.fc8e8a55.js.map"
   },
   "entrypoints": [
     "static/css/main.6145a16d.css",
-    "static/js/main.89d2480e.js"
+    "static/js/main.fc8e8a55.js"
   ]
 }
