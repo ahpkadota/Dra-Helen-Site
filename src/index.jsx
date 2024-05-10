@@ -9,6 +9,7 @@ import FAQ from "./pages/FAQ";
 import Contacts from "./pages/Contacts";
 import Tips from "./pages/Tips";
 import Treatments from "./pages/Treatments";
+import { createHashRouter } from 'react-router-dom';
 
 import "./index.css";
 import content from "./content.json";
@@ -88,7 +89,7 @@ let treatmentArray = Object.keys(content).map((item) => {
   };
 });
 
-const router = createBrowserRouter(pathArray.concat(treatmentArray));
+const router = createHashRouter(pathArray.concat(treatmentArray));
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>

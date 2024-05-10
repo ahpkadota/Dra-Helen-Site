@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.c::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url("assets/img/helen-main.jpg"); 
+  background-size: cover; /* Adjust as needed */
+  opacity: 0.8; /* Adjust opacity */
+  z-index: 0; /* Ensure this appears behind other content */
+}
+
+.cont {
+  position: relative;
+  z-index: 1; /* Keep content above the pseudo-element */
+  color: white; /* Adjust text color for readability */
+  padding: 10px;
+}

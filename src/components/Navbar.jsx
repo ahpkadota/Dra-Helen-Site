@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom';
+
 export default function Navbar() {
   return (
     <header className="bg-white">
@@ -10,123 +12,117 @@ export default function Navbar() {
             >
               <ul className="me-auto navbar-nav">
                 <li className="nav-item">
-                  {" "}
-                  <a className="link-dark nav-link p-lg-3" href="/">
-                    INICIO
-                  </a>
+                <Link className="link-dark nav-link p-lg-3" to="/">INICIO</Link>
                 </li>
                 <li className="nav-item">
-                  {" "}
-                  <a className="link-dark nav-link p-lg-3" href="drahelen">
-                    Dra. Helen
-                  </a>
+                  <Link className="link-dark nav-link p-lg-3" to="/drahelen">Dra. Helen</Link>
                 </li>
                 <li className="dropdown">
-                  <a
+                  <Link
                     className="link-dark nav-link p-lg-3 dropdown-toggle"
                     data-bs-toggle="dropdown"
                     aria-expanded="false"
                   >
                     Tratamentos
-                  </a>
+                  </Link>
                   <ul className="dropdown-menu text-small shadow">
                     <li>
-                      <a className="dropdown-item" href="ansiedade-panico">
+                      <Link className="dropdown-item" to="/ansiedade-panico">
                         Ansiedade e Panico
-                      </a>
+                      </Link>
                     </li>
                     <li>
-                      <a className="dropdown-item" href="compulsao-alimentar">
+                      <Link className="dropdown-item" to="/compulsao-alimentar">
                         Compulsão alimentar
-                      </a>
-                    </li>{" "}
-                    <li>
-                      <a className="dropdown-item" href="ta-bipolar">
-                        TA bipolar
-                      </a>
-                    </li>{" "}
-                    <li>
-                      <a className="dropdown-item" href="ansiedade-panico">
-                        Ansiedade e pânico
-                      </a>
-                    </li>{" "}
-                    <li>
-                      <a className="dropdown-item" href="tea">
-                        TEA
-                      </a>
-                    </li>{" "}
-                    <li>
-                      <a className="dropdown-item" href="tdah">
-                        TDAH
-                      </a>
-                    </li>{" "}
-                    <li>
-                      <a className="dropdown-item" href="deficiencia-intelectual">
-                        Deficiência intelectual
-                      </a>
-                    </li>{" "}
-                    <li>
-                      <a className="dropdown-item" href="outros-transtornos">
-                        Outros transtornos do neurodesenvolvimento
-                      </a>
-                    </li>{" "}
-                    <li>
-                      <a className="dropdown-item" href="tod">
-                        TOD
-                      </a>
-                    </li>{" "}
-                    <li>
-                      <a className="dropdown-item" href="depressao">
-                        Depressão
-                      </a>
-                    </li>{" "}
-                    <li>
-                      <a className="dropdown-item" href="toc">
-                        TOC e transtornos relacionados
-                      </a>
-                    </li>{" "}
-                    <li>
-                      <a className="dropdown-item" href="esquizofrenia">
-                        Esquizofrenia e outros transtornos psicóticos
-                      </a>
+                      </Link>
                     </li>
                     <li>
-                      <a className="dropdown-item" href="transtornos-neuro">
+                      <Link className="dropdown-item" to="/ta-bipolar">
+                        TA bipolar
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="dropdown-item" to="/ansiedade-panico">
+                        Ansiedade e pânico
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="dropdown-item" to="/tea">
+                        TEA
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="dropdown-item" to="/tdah">
+                        TDAH
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="dropdown-item" to="/deficiencia-intelectual">
+                        Deficiência intelectual
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="dropdown-item" to="/outros-transtornos">
+                        Outros transtornos do neurodesenvolvimento
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="dropdown-item" to="/tod">
+                        TOD
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="dropdown-item" to="/depressao">
+                        Depressão
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="dropdown-item" to="/toc">
+                        TOC e transtornos relacionados
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="dropdown-item" to="/esquizofrenia">
+                        Esquizofrenia e outros transtornos psicóticos
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="dropdown-item" to="/transtornos-neuro">
                         Transtornos neurocognitivos
-                      </a>
+                      </Link>
                     </li>
                   </ul>
                 </li>
                 <li className="nav-item">
-                  {" "}
-                  <a className="link-dark nav-link p-lg-3" href="dicas">
+                  
+                  <Link className="link-dark nav-link p-lg-3" to="/dicas">
                     Dicas
-                  </a>
-                </li>{" "}
-                <li className="nav-item">
-                  {" "}
-                  <a className="link-dark nav-link p-lg-3" href="/#faq">
-                    FAQ / Perguntas Frequentes
-                  </a>
-                </li>{" "}
-                <li className="nav-item">
-                  {" "}
-                  <a className="link-dark nav-link p-lg-3" href="livros">
-                    Livros
-                  </a>
+                  </Link>
                 </li>
                 <li className="nav-item">
-                  {" "}
-                  <a className="link-dark nav-link p-lg-3" href="contato">
+                  
+                  <Link className="link-dark nav-link p-lg-3" to="/#faq">
+                    FAQ / Perguntas Frequentes
+                  </Link>
+                </li>
+                <li className="nav-item">
+                  
+                  <Link className="link-dark nav-link p-lg-3" to="/livros">
+                    Livros
+                  </Link>
+                </li>
+                <li className="nav-item">
+                  
+                  <Link className="link-dark nav-link p-lg-3" to="/contato">
                     Contato
-                  </a>
+                  </Link>
                 </li>
               </ul>
               <div className="d-flex flex-wrap gap-2 py-1">
-                {" "}
-                <a href="#" className="btn btn-primary pe-4 ps-4">
+                
+                <Link to="/" className="btn btn-primary pe-4 ps-4">
                   Book Appointment
-                </a>
+                </Link>
               </div>
             </div>
           </div>
