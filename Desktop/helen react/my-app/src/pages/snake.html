@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Snake Game</title>
+    <style>
+        canvas {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+
+<body>
+    <a id="game-canvas" width="400" height="400"></a>
+    <button onclick=logRandomTechnique()>START</button>
+    <button onclick=stop()>STOP</button>
+
+    <script>
+        const canvas = document.getElementById('game-canvas');
+        const techniques = [
+            "aihami katatedori right",
+            "shomen uchi komi right",
+            "aihami katatedori left",
+            "shomen uchi komi left",
+            "gyakuhami katatedori right",
+            "gyakuhami katatedori left",
+            "ryotetori right",
+            "ryotetori left",
+            "ushiro ryotetori right",
+            "tsuki right",
+            "ushiro ryotetori left",
+            "tsuki left",
+            "Morotetori right",
+            "Morotetori left",
+            "Suwariwaza left",
+            "Suwariwaza right"
+        ];
+        let endTime; // 5 minutes in milliseconds
+        const interval = 8000; // 5 seconds in milliseconds
+
+        function logRandomTechnique() {
+            setInterval(() => {
+                endTime = Date.now() + 10 * 60 * 1000
+                if (Date.now() >= endTime) {
+                    clearInterval(logRandomTechnique);
+                    canvas.innerText = "5 minutes have elapsed. Stopping the interval.";
+                } else {
+                    const randomIndex = Math.floor(Math.random() * techniques.length);
+                    canvas.innerHTML = `<p>${techniques[randomIndex]}</p>` + canvas.innerHTML
+                }
+            }, interval);
+        }
+        function stop() {
+            clearInterval(logRandomTechnique);
+            canvas.innerHTML = "STOPPED";
+        }
+    </script>
+</body>
+
+</html>
