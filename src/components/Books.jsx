@@ -21,13 +21,11 @@ export default function Books({ book1, book2 }) {
                 <a href="#" className="text-dark text-decoration-none">
                   <h3 className="fw-bold h5">Primeiros contatos</h3>
                 </a>
-                <h4 className="fw-bold h6 small text-secondary">
-                  10 August 2020
-                </h4>
                 <p className="mb-0">
-                  Amet minim mollit non deserunt ullamco est sit aliqua dolor do
-                  amet sint. Velit officia consequat duis enim velit mollit.
-                  Exercitation veniam consequat sunt nostrud amet.
+                  Foi escrito durante o internato (os últimos dois anos da
+                  graduação de medicina), período que motivou diversas reflexões
+                  enquanto eu passava por atendimentos em diversas
+                  especialidades médicas.
                 </p>
               </div>
             </div>
@@ -49,14 +47,12 @@ export default function Books({ book1, book2 }) {
                 <a href="#" className="text-dark text-decoration-none">
                   <h3 className="fw-bold h5">Fotopoemas viajantes</h3>
                 </a>
-                <h4 className="fw-bold h6 small text-secondary">
-                  10 August 2020
-                </h4>
                 <p className="mb-0">
-                  Amet minim mollit non deserunt ullamco est sit aliqua dolor do
-                  amet sint. Velit officia consequat duis enim velit mollit.
-                  Exercitation veniam consequat sunt nostrud amet.
-                </p>
+                  Livro de fotografias e autorais, motivados por viagens que eu
+                  faço.
+                </p>{" "}
+                <p className="mb-0">1: Brasil, Reino Unido e Irlanda.</p>{" "}
+                <p className="mb-0">2: Espanha.</p>
               </div>
             </div>
           </div>

@@ -77,6 +77,7 @@ let pathArray = [
   },
 ];
 let treatmentArray = Object.keys(content).map((item) => {
+  console.log(content[item])
   return {
     path: `/${item}`,
     element: <App />,

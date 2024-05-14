@@ -1,5 +1,5 @@
 import "./App.css";
-import "./bootstrap.css";
+import "./main.css";
 import "../node_modules/bootstrap/dist/js/bootstrap.bundle.js";
 
 import Navbar from "./components/Navbar.jsx";

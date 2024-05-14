@@ -1,9 +1,9 @@
 export default function ContentHeader(props) {
-
   return (
     <section
       className="background-cover background-left-center bg-dark pb-5 pt-5 text-center text-white"
-      style={{ backgroundImage: `url(${props.img})` }}
+      style={{ backgroundImage: `url(http://localhost:3001/Dra-Helen-Site${props.img})` }
+    }
     >
       <div className="container pb-5 pt-5">
         <div className="pb-5 pt-5 row">

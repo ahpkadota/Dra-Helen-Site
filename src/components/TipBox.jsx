@@ -7,14 +7,12 @@ export default function TipBox() {
       <div class="container pb-4 pt-4">
         <div class="align-items-center row">
           <div class="col-lg-6 ms-auto me-auto">
-            <h2 class="h6 mb-1 text-primary">Our Story</h2>
             <h3 class="fw-bold h2 mb-3">
-              We Work Together To Play, Have Fun, Design And Create
+              Dicas
             </h3>
             <p class="fw-light mb-4">
-              {" "}
               Aqui vão algumas dicas práticas que podem te auxiliar a lidar com algumas emoções desafiadoras que sentimos no cotidiano: - Raiva: tente contar até 10 mentalmente antes de agir/ falar (isso nos ajuda a não cair na reação sem pensar); - Ansiedade: tente fazer exercícios de respiração consciente (vide tópico abaixo); ou tente sair para uma corrida em torno do seu quarteirão; - Tristeza: tente fazer uma ação de autocuidado, como: tomar um banho aconchegante, comer um alimento que você aprecia muito, fazer uma automassagem com um creme hidratante de que você gosta, ver um filme que você ama; - Confusão: se não consegue entender o que está sentindo, mas é muito desconfortável, tente escrever num papel o que está sentindo ou pensando no momento ou fazer um desenho; - Vontade de se machucar: tente fazer um estímulo vigoroso em seu corpo que não cause dano, como: entrar numa ducha fria, passar gelo na pele do braço, sair correndo em torno do quarteirão.{" "}
-            </p>{" "}
+            </p>
           </div>
         </div>
       </div>
@@ -310,7 +308,7 @@ export default function TipBox() {
           </div>
           <div class="col-lg-6 pb-3 pt-3">
             <div class="pb-3 pt-3">
-              <h3 class="fw-bold h5"> We Work Together </h3>
+              <h3 class="fw-bold h5"> Atividade física </h3>
               <p class="fw-light mb-0">
                 {" "}
                 A atividade física é SEMPRE uma poderosa parceira no tratamento
@@ -325,7 +323,7 @@ export default function TipBox() {
               </p>
             </div>
             <div class="pb-3 pt-3">
-              <h3 class="fw-bold h5"> We Work Together </h3>
+              <h3 class="fw-bold h5"> Leitura </h3>
               <p class="fw-light mb-0">
                 {" "}
                 A leitura pode auxiliar muito no tratamento dos transtornos
@@ -337,7 +335,7 @@ export default function TipBox() {
               </p>
             </div>{" "}
             <div class="pb-3 pt-3">
-              <h3 class="fw-bold h5"> We Work Together </h3>
+              <h3 class="fw-bold h5"> Mindfulness </h3>
               <p class="fw-light mb-0">
                 {" "}
                 O mindfulness ou atenção plena tem mostrado benefícios no
@@ -352,7 +350,7 @@ export default function TipBox() {
               </p>
             </div>{" "}
             <div class="pb-3 pt-3">
-              <h3 class="fw-bold h5"> We Work Together </h3>
+              <h3 class="fw-bold h5"> Respiração consciente </h3>
               <p class="fw-light mb-0">
                 {" "}
                 Existem vários tipos de respiração consciente. Na prática do
@@ -366,7 +364,7 @@ export default function TipBox() {
               </p>
             </div>{" "}
             <div class="pb-3 pt-3">
-              <h3 class="fw-bold h5"> We Work Together </h3>
+              <h3 class="fw-bold h5"> Fitoterápicos </h3>
               <p class="fw-light mb-0">
                 {" "}
                 Alguns fitoterápicos possuem algumas evidências no tratamento de
@@ -375,7 +373,7 @@ export default function TipBox() {
               </p>
             </div>{" "}
             <div class="pb-3 pt-3">
-              <h3 class="fw-bold h5"> We Work Together </h3>
+              <h3 class="fw-bold h5"> Óleos essenciais</h3>
               <p class="fw-light mb-0">
                 {" "}
                 O óleo essencial de lavanda tem mostrado benefício no tratamento
