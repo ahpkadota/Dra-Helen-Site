@@ -1,5 +1,6 @@
 import ContentBlock from "../components/ContentBlock";
 import ContentHeader from "../components/ContentHeader";
+import ContentBlockNew from "../components/ContentBlockNew";
 
 export default function Treatments(props) {
   let header = props.props.header;
@@ -8,7 +9,7 @@ export default function Treatments(props) {
   return (
     <main>
       <ContentHeader img={img} content={header}/>
-      <ContentBlock content={text}/>
+      <ContentBlockNew img={img} content={text}/>
     </main>
   );
 }

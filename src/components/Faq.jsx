@@ -1,4 +1,4 @@
-import faqData from "../faq.json";
+import faqData from "../data/faq.json";
 import FaqItem from "./FaqItem";
 
 export default function Faq() {

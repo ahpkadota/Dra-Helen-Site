@@ -12,7 +12,7 @@ import Treatments from "./pages/Treatments";
 import { createHashRouter } from 'react-router-dom';
 
 import "./index.css";
-import content from "./content.json";
+import content from "./data/content.json";
 
 let pathArray = [
   {

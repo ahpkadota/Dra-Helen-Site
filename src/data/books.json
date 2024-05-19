@@ -1,0 +1,25 @@
+{
+  "primeiros-contatos": {
+    "header": "PRIMEIROS CONTATOS",
+    "text": [
+      "O livro é uma coletânea de crônicas escritas durante os dois anos do internato, último período da graduação de medicina. O contato direto com os pacientes e suas enfermidades proporcionou à autora um amadurecimentos emocional, um aprofundamento no funcionamento humano e muitas reflexões filosóficas."
+    ],
+    "img": "/assets/img/livro-primeiros-contatos.jpg"
+  },
+  "fotopoemas1": {
+    "header": "FOTOPOEMAS 1",
+    "text": [
+      "O livro traz fotografias tiradas em viagens realizadas pela autora e contém um poema para cada uma delas.",
+      "Nesse volume, o conteúdo é inspirado por paisagens do Brasil, do Reino Unido e da Irlanda."
+    ],
+    "img": "/assets/img/livro-fotopoemas.jpg"
+  },
+  "fotopoemas2": {
+    "header": "FOTOPOEMAS 2",
+    "text": [
+      "Fotografias de viagens são recordações preciosas de momentos únicos que vivemos. Revisitá-las é tão mágico que inspira poesia… Quer embarcar nessa viagem?",
+      "Nesse volume, a autora traz fotografias de diversas regiões da Espanha, como Madrid, Barcelona, Andaluzia e Costa del Sol, além de comentar sobre elementos da cultura espanhola."
+    ],
+    "img": "/assets/img/livro-fotopoemas2.jpg"
+  }
+}
