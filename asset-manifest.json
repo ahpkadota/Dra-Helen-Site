@@ -1,19 +1,21 @@
 {
   "files": {
     "main.css": "/Dra-Helen-Site/static/css/main.8c35163b.css",
-    "main.js": "/Dra-Helen-Site/static/js/main.76af7204.js",
+    "main.js": "/Dra-Helen-Site/static/js/main.3d1d0467.js",
+    "static/media/helen-academic3.jpg": "/Dra-Helen-Site/static/media/helen-academic3.42ac0d686f5ad4237119.jpg",
     "static/media/helen-main.jpg": "/Dra-Helen-Site/static/media/helen-main.ccb18f206300e0d9e593.jpg",
-    "static/media/helen-academic.jpg": "/Dra-Helen-Site/static/media/helen-academic.18edccc14da982fa42bf.jpg",
+    "static/media/helen-carousel3.jpg": "/Dra-Helen-Site/static/media/helen-carousel3.5b064179ac15e6087e98.jpg",
+    "static/media/helen-academic2.jpg": "/Dra-Helen-Site/static/media/helen-academic2.7c12bd9eacd2f7896314.jpg",
+    "static/media/helen-carousel4.jpg": "/Dra-Helen-Site/static/media/helen-carousel4.77e4ae25acfaacbae622.jpg",
+    "static/media/helen-academic1.jpg": "/Dra-Helen-Site/static/media/helen-academic1.18edccc14da982fa42bf.jpg",
     "static/media/helen-carousel2.jpg": "/Dra-Helen-Site/static/media/helen-carousel2.f8b0575b5f0d6cccdaa8.jpg",
     "static/media/helen-carousel1.jpg": "/Dra-Helen-Site/static/media/helen-carousel1.1e4952128415a9690da3.jpg",
-    "static/media/livro-fotopoemas.jpg": "/Dra-Helen-Site/static/media/livro-fotopoemas.8f82eca7fb2a4794b8cb.jpg",
-    "static/media/livro-primeiros-contatos.jpg": "/Dra-Helen-Site/static/media/livro-primeiros-contatos.2d26b3a544d39447a29e.jpg",
     "index.html": "/Dra-Helen-Site/index.html",
     "main.8c35163b.css.map": "/Dra-Helen-Site/static/css/main.8c35163b.css.map",
-    "main.76af7204.js.map": "/Dra-Helen-Site/static/js/main.76af7204.js.map"
+    "main.3d1d0467.js.map": "/Dra-Helen-Site/static/js/main.3d1d0467.js.map"
   },
   "entrypoints": [
     "static/css/main.8c35163b.css",
-    "static/js/main.76af7204.js"
+    "static/js/main.3d1d0467.js"
   ]
 }
