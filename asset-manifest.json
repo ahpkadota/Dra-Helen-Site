@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Dra-Helen-Site/static/css/main.8c35163b.css",
-    "main.js": "/Dra-Helen-Site/static/js/main.6a6648ab.js",
+    "main.css": "/Dra-Helen-Site/static/css/main.5b0ec45b.css",
+    "main.js": "/Dra-Helen-Site/static/js/main.e1117324.js",
     "static/media/helen-academic3.jpg": "/Dra-Helen-Site/static/media/helen-academic3.42ac0d686f5ad4237119.jpg",
     "static/media/helen-main.jpg": "/Dra-Helen-Site/static/media/helen-main.ccb18f206300e0d9e593.jpg",
     "static/media/helen-carousel3.jpg": "/Dra-Helen-Site/static/media/helen-carousel3.5b064179ac15e6087e98.jpg",
@@ -11,11 +11,11 @@
     "static/media/helen-carousel2.jpg": "/Dra-Helen-Site/static/media/helen-carousel2.f8b0575b5f0d6cccdaa8.jpg",
     "static/media/helen-carousel1.jpg": "/Dra-Helen-Site/static/media/helen-carousel1.1e4952128415a9690da3.jpg",
     "index.html": "/Dra-Helen-Site/index.html",
-    "main.8c35163b.css.map": "/Dra-Helen-Site/static/css/main.8c35163b.css.map",
-    "main.6a6648ab.js.map": "/Dra-Helen-Site/static/js/main.6a6648ab.js.map"
+    "main.5b0ec45b.css.map": "/Dra-Helen-Site/static/css/main.5b0ec45b.css.map",
+    "main.e1117324.js.map": "/Dra-Helen-Site/static/js/main.e1117324.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c35163b.css",
-    "static/js/main.6a6648ab.js"
+    "static/css/main.5b0ec45b.css",
+    "static/js/main.e1117324.js"
   ]
 }
