@@ -7,9 +7,10 @@ import DraHelen from "./pages/DraHelen";
 import Book from "./pages/Book";
 import FAQ from "./pages/FAQ";
 import Contacts from "./pages/Contacts";
-import Tips from "./pages/Tips";
+import Activities from "./pages/Activities";
+import Emotions from "./pages/Emotions";
 import Treatments from "./pages/Treatments";
-import { createHashRouter } from 'react-router-dom';
+import { createHashRouter } from "react-router-dom";
 
 import "./index.css";
 import content from "./data/content.json";
@@ -66,18 +67,29 @@ let pathArray = [
     ],
   },
   {
-    path: "/dicas",
+    path: "/emocoes",
     element: <App />,
     children: [
       {
-        path: "/dicas",
-        element: <Tips />,
+        path: "/emocoes",
+        element: <Emotions />,
+      },
+    ],
+  },
+  ,
+  {
+    path: "/atividades",
+    element: <App />,
+    children: [
+      {
+        path: "/atividades",
+        element: <Activities />,
       },
     ],
   },
 ];
 let treatmentArray = Object.keys(content).map((item) => {
-  console.log(content[item])
+  console.log(content[item]);
   return {
     path: `/${item}`,
     element: <App />,

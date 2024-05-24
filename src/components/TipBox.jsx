@@ -1,16 +1,38 @@
 import tips from "../data/tips.json";
 
-export default function TipBox() {
+export default function TipBox({ data }) {
   function TipItem({ title, content }) {
+    return (
+      <div class="lc-block mb-5">
+        <div>
+          <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+            <div class="col-auto d-none d-lg-block">
+              <svg
+                class="bd-placeholder-img"
+                xmlns="http://www.w3.org/2000/svg"
+                role="img"
+                aria-label="Placeholder: Thumbnail"
+                preserveAspectRatio="xMidYMid slice"
+                focusable="false"
+              ></svg>
+            </div>
+            <div class="col p-4 d-flex flex-column position-static">
+              <h3 class="mb-3">{title}</h3>
+              <p class="card-text mb-auto">{content}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    );
+  }
+  function TipItem2({ title, content }) {
     return (
       <div class="lc-block mb-5">
         <div>
           <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
             <div class="col p-4 d-flex flex-column position-static">
               <h3 class="mb-3">{title}</h3>
-              <p class="card-text mb-auto">
-              {content}
-              </p>
+              <p class="card-text mb-auto">{content}</p>
             </div>
             <div class="col-auto d-none d-lg-block">
               <svg
@@ -20,9 +42,7 @@ export default function TipBox() {
                 aria-label="Placeholder: Thumbnail"
                 preserveAspectRatio="xMidYMid slice"
                 focusable="false"
-              >
-
-              </svg>
+              ></svg>
             </div>
           </div>
         </div>
@@ -30,8 +50,10 @@ export default function TipBox() {
     );
   }
   function TipList({ data }) {
-    return data.map((emotion) => {
-      return (
+    return data.map((emotion, i) => {
+      return i % 2 === 0 ? (
+        <TipItem2 title={emotion.title} content={emotion.content}></TipItem2>
+      ) : (
         <TipItem title={emotion.title} content={emotion.content}></TipItem>
       );
     });
@@ -63,12 +85,7 @@ export default function TipBox() {
       >
         <div class="container py-5">
           <div class="row">
-            <div class="col-md-3">
-              <TipList data={tips.emotions}></TipList>
-            </div>
-            <div class="col-md-7 offset-md-1">
-              <TipList data={tips.activities}></TipList>
-            </div>
+            <TipList data={data}></TipList>
           </div>
         </div>
       </section>
