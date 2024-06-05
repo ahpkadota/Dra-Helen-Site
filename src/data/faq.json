@@ -1,11 +1,11 @@
 {
   "item1": {
     "header": "Quanto tempo demora para ter um diagnóstico psiquiátrico?",
-    "text": "Depende de cada casa. Quando a história clínica é muito clara (em características e tempo) e o exame psíquico é compatível, o diagnóstico pode até ser feito numa primeira consulta. Contudo, às vezes, é preciso descartar outras condições com exames complementares, obter informações complementares (relatório da escola, conversa com familiar), obter avaliações de profissionais complementares (fisio, fono, TO, psico etc) e observar por mais tempo a apresentação do paciente (acompanhamento longitudinal). No caso de criança e adolescente, o processo precisa ser longitudinal e acompanhar as fases do desenvolvimento."
+    "text": "Depende de cada caso. Quando a história clínica é muito clara (em características e tempo) e o exame psíquico é compatível, o diagnóstico pode até ser feito numa primeira consulta. Contudo, às vezes, é preciso descartar outras condições com exames complementares, obter informações complementares (relatório da escola, conversa com familiar), obter avaliações de profissionais complementares (fisio, fono, TO, psico etc.) e observar por mais tempo a apresentação do paciente (acompanhamento longitudinal). No caso de criança e adolescente, o processo precisa ser longitudinal e acompanhar as fases do desenvolvimento."
   },
   "item2": {
     "header": "Preciso ir ao psiquiatra, mas não quero tomar remédio. Adianta marcar consulta?",
-    "text": "Faz parte da psicofobia achar que toda condição psiquiátrica precisa ser tratada com remédio, e parte dessa culpa vem de condutas inadequadas dos próprios psiquiatras, como a polifarmácia (prescrição de vários psicofármacos em conjunto). As evidências científicas mostram benefício em monoterapia (ou seja, um único medicamento) para a maioria das condições. Além disso, algumas condições, dependendo do grau de prejuízo, podem ser tratadas com métodos não farmacológicos. Tudo isso pode ser explorado numa consulta, que envolve muito mais do que a prescrição de um medicamento, afinal nenhum remédio resolve 100% do que apresentamos em saúde mental – sempre será necessário combinar com mudanças de estilo de vida."
+    "text": "Faz parte da psicofobia achar que toda condição psiquiátrica precisa ser tratada com remédio, e parte dessa culpa vem de condutas inadequadas dos próprios psiquiatras, como a polifarmácia (prescrição de vários psicofármacos em conjunto). As evidências científicas mostram maior benefício em monoterapia (ou seja, um único medicamento) para a maioria das condições. Ou seja, há pouquíssimas evidências que sustentam uma prescrição cheia de medicamentos diferentes. Além disso, algumas condições, dependendo do grau de prejuízo, podem ser tratadas com métodos não farmacológicos. Tudo isso pode ser explorado numa consulta, que envolve muito mais do que a prescrição de um medicamento, afinal nenhum remédio resolve 100% do que apresentamos em saúde mental – sempre será necessário combinar com mudanças de estilo de vida."
   },
   "item3": {
     "header": "A sua consulta inclui um retorno dentro de 30 dias?",
@@ -13,14 +13,14 @@
   },
   "item4": {
     "header": "O que acontece se eu esquecer de marcar retorno e minha receita de medicamento acabar?",
-    "text": "Você interrompe o tratamento, cuja responsabilidade também é sua. O tratamento psiquiátrico envolve uma colaboração entre psiquiatra e paciente, e é função do paciente (ou de seu curador) observar o tempo de validade das receitas fornecidas e marcar retorno dentro desse período. Não é porque uma pessoa está adaptada a um medicamento que ela o seguirá tomando por tempo indeterminado, sem reavaliações. O tratamento passa por várias fases (indução, manutenção, desmame, retirada), e elas precisam ser monitoradas regularmente. Portanto, se você esquece de marcar o retorno e sua receita acaba, você interromperá seu tratamento. Pode ser solicitada uma receita emergencial, que será emitida mediante o agendamento de nova consulta."
+    "text": "Você interrompe o tratamento, cuja responsabilidade também é sua. O tratamento psiquiátrico envolve uma colaboração entre psiquiatra e paciente, e é função do paciente (ou de seu curador) observar o tempo de validade das receitas fornecidas e marcar retorno dentro desse período. Não é porque uma pessoa está adaptada a um medicamento que ela o seguirá tomando por tempo indeterminado, sem reavaliações. O tratamento passa por várias fases (indução, manutenção, desmame, retirada), e elas precisam ser monitoradas regularmente. Portanto, se você esquece de marcar o retorno e sua receita acaba, você está interrompendo seu tratamento. Pode ser solicitada uma receita emergencial, que será emitida mediante o agendamento de nova consulta."
   },
   "item5": {
     "header": "O que devo fazer se eu apresentar uma urgência psiquiátrica durante o meu acompanhamento?",
-    "text": "Urgências psiquiátricas são: ideação suicida mantida, agitação psicomotora, heteroagressividade e psicose (alucinações e delírios francos). Nesse caso, você deve me comunicar e tentar um encaixe. Será feito o possível para encaixar uma consulta na agenda, mas, se a prioridade for alta, vou indicar buscar o pronto atendimento."
+    "text": "Urgências psiquiátricas são: ideação suicida mantida, agitação psicomotora, heteroagressividade e psicose (alucinações e delírios francos). Nesse caso, você deve me comunicar e tentar um encaixe. Será feito o possível para encaixar uma consulta na agenda, mas, se a prioridade for alta, vou indicar buscar o pronto atendimento para uma resolução imediata."
   },
   "item6": {
     "header": "Não estou me adaptando ao medicamento, posso sugerir para a doutora trocar por e-mail?",
-    "text": "Não, você deve comunicar a doutora sobre os efeitos colaterais para receber orientação e adiantar ou aguardar a consulta. A troca de medicamento precisa ser feita em consulta."
+    "text": "Não, você deve comunicar à doutora sobre os efeitos colaterais que tem sentido para receber orientação e adiantar ou aguardar a consulta. A troca de medicamento precisa ser feita em consulta médica."
   }
 }

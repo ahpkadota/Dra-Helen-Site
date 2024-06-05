@@ -8,7 +8,7 @@
     },
     {
       "title": "Ansiedade",
-      "content": "Tente fazer exercícios de respiração consciente (vide tópico abaixo); ou tente sair para uma corrida em torno do seu quarteirão",
+      "content": "Tente fazer exercícios de respiração consciente (inspire em 3 segundos e expire em 6 segundos durante 5 minutos); ou tente sair para uma corrida em torno do seu quarteirão",
       "icon": ""
     },
     {
@@ -17,20 +17,20 @@
       "icon": ""
     },
     {
-      "title": "Confusão",
+      "title": "Confusão e angústia",
       "content": "Se não consegue entender o que está sentindo, mas é muito desconfortável, tente escrever num papel o que está sentindo ou pensando no momento ou fazer um  desenho",
       "icon": ""
     },
     {
       "title": "Vontade de se machucar",
-      "content": "Tente fazer um estímulo vigoroso em seu corpo que não cause dano, como: entrar numa ducha fria, passar gelo na pele do braço, sair correndo em torno do quarteirão.",
+      "content": "Tente fazer um estímulo vigoroso em seu corpo que não cause dano, como: entrar numa ducha fria, passar gelo na pele do braço, pular corda por 5 minutos.",
       "icon": ""
     }
   ],
   "activities": [
     {
       "title": "Atividade física",
-      "content": "A atividade física é SEMPRE uma poderosa parceira no tratamento de TODOS os transtornos mentais. Ela traz muitos benefícios psíquicos e físicos que são importantes aliados no processo terapêutico. Basicamente qualquer esporte é indicado, a dependerdo que convêm à pessoa, mas aqui vão algumas dicas se você aindanão tentou nada ou não conhece o seu perfil de atividade física: - Para transtornos ansiosos: exercícios aeróbicos, como dança,yoga, atletismo, treino funcional, natação, artes marciais; -Para transtorno do espectro autista: esportes na água;",
+      "content": "A atividade física é SEMPRE uma poderosa parceira no tratamento de TODOS os transtornos mentais. Ela traz muitos benefícios psíquicos e físicos que são importantes aliados no processo terapêutico. Basicamente qualquer esporte é indicado, a depender das preferências e conveniências de cada um, mas aqui vão algumas dicas se você ainda não tentou nada ou não conhece o seu perfil de atividade física. Para transtornos ansiosos: exercícios aeróbicos, como dança, yoga, atletismo, treino funcional, natação, artes marciais. Para transtorno do espectro autista: esportes na água.",
       "icon": ""
     },
     {
@@ -40,22 +40,27 @@
     },
     {
       "title": "Mindfulness",
-      "content": "O mindfulness ou atenção plena tem mostrado benefícios no tratamento de depressão, transtornos de ansiedade e compulsão limentar em uma série de estudos científicos. Existem programas e cursos de atenção plena que você pode procurar para fazer, mas também existem aplicativos de celular como Lojong, Aura, Omvana etc., que possuem exercícios diários de meditação guiada que ajudam na respiração consciente, no comer consciente e no desenvolvimento de atenção plena durante nosso dia, evitando ficar no “piloto automático”.",
+      "content": "O mindfulness ou atenção plena tem mostrado benefícios no tratamento de depressão, transtornos de ansiedade e compulsão alimentar em uma série de estudos científicos. Existem programas e cursos de atenção plena que você pode procurar, mas também existem aplicativos de celular como Lojong, Aura, Omvana etc., que possuem exercícios diários de meditação guiada que ajudam na respiração consciente, no comer consciente e no desenvolvimento de atenção plena em nosso cotidiano, auxiliando-nos a sair do “piloto automático”.",
       "icon": ""
     },
     {
       "title": "Respiração consciente",
-      "content": "Existem vários tipos de respiração consciente. Na prática do yoga, eles são chamados de “pranayamas” e há uma infinidade deles, cada um com um benefício. Um tipo muito simples de exercício de respiração que pode auxiliar durante uma crise de ansiedade ou um ataque de pânico é: inspire (puxe o ar) em 5 segundos; segure o ar nos pulmões por 3 segundos; expire (solte o ar) por 7 segundos; segure os pulmões esvaziados por 3 segundos e recomece.",
+      "content": "Existem vários tipos de respiração consciente. Na prática do yoga, eles são chamados de “pranayamas” e há uma infinidade deles, cada um com um benefício. Um tipo muito simples de exercício de respiração que pode auxiliar durante uma crise de ansiedade ou um ataque de pânico é: inspire (puxe o ar) em 3 segundos; segure o ar nos pulmões por 3 segundos; expire (solte o ar) por 6 segundos; segure os pulmões esvaziados por 3 segundos e recomece. Faça essa sequência por cerca de 5 minutos, até se sentir calmo (isso regulará sua frequência cardiorrespiratória)",
       "icon": ""
     },
     {
       "title": "Fitoterápicos",
-      "content": "Alguns fitoterápicos possuem algumas evidências no tratamento de transtornos ansiosos, e podem ser usados quando o paciente tem um quadro leve e muita resistência a psicofármacos.",
+      "content": "Alguns fitoterápicos possuem algumas evidências no tratamento de transtornos ansiosos, e podem ser usados quando o paciente tem um quadro leve e muita resistência a fazer uso de psicofármacos.",
       "icon": ""
     },
     {
       "title": "Óleos essenciais",
-      "content": "O óleo essencial de lavanda tem mostrado benefício no tratamento de transtornos ansiosos. Pode ser usado em blend e colocado no travesseiro ou na roupa para que a pessoa exale durante o dia/ a noite. No entanto, deve ser um complemento do tratamento e não usado como único recurso, exceto em casos muito leves.",
+      "content": "O óleo essencial de lavanda tem mostrado benefício no tratamento de transtornos ansiosos. Pode ser usado em blend e colocado no travesseiro ou na roupa para que a pessoa exale durante o dia/à noite. No entanto, deve ser um complemento do tratamento e não usado como único recurso, exceto em casos muito leves.",
+      "icon": ""
+    },
+    {
+      "title": "Interação com animais e natureza",
+      "content": "A interação com animais tem sido estudada em diversos cenários de serviços de saúde, com estudos mostrando benefícios desde a recuperação de pacientes em unidade de cuidados intensivos até a reabilitação de crianças neurodivergentes (com TEA, TDAH, deficiência intelectual etc.). Sem dúvida, cuidar e interagir com animais é positivo para todo ser humano, mas pode ser parte ativa do desenvolvimento de habilidades de socialização em crianças com essas dificuldades por exemplo. Alem disso, vários estudos mostram índices menores de ansiedade e depressão em pessoas que moram próximas a áreas de parques ricos em vegetação e lagos, o que indica que o contato com a natureza é importante para nossa saúde mental. ",
       "icon": ""
     }
   ]

@@ -21,7 +21,7 @@ Você pode agendar sua teleconsulta enviando e-mail para: helenftorina.psiquiatr
                 </svg>
               </div>
               <div className="col">
-                <a href="mailto:info@company.com" className="text-secondary">
+                <a href="mailto:ahpkadota2@gmail.com" className="text-secondary">
                   helenftorina.psiquiatria@gmail.com
                 </a>
               </div>

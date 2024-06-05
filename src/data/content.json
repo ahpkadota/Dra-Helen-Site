@@ -1,8 +1,9 @@
 {
   "ansiedade-panico": {
-    "header": "Ansiedade e pânico",
+    "header": "Ansiedade, pânico e trauma",
     "text": [
-      "Os transtornos ansiosos são muitos e podem estar presentes em todas as faixas etárias, a partir dos 2 anos de idade. Fobias específicas, mutismo seletivo, transtorno de ansiedade de separação e transtorno de ansiedade generalizada são os mais comuns na infância. Além desses, existem o transtorno de ansiedade social, o transtorno de pânico, a agorafobia, o transtorno de ansiedade de doença e os transtornos de ansiedade induzidos (por doença ou medicamento). O que une todos eles é uma alteração no processamento do medo, gerando sofrimento ou prejuízo funcional por conta de preocupações e sintomas físicos de ansiedade. ",
+      "Os transtornos ansiosos são muitos e podem estar presentes em todas as faixas etárias desde a primeira infância. Fobias específicas, mutismo seletivo, transtorno de ansiedade de separação e transtorno de ansiedade generalizada são os mais comuns na infância. Além desses, existem o transtorno de ansiedade social, o transtorno de pânico, a agorafobia, o transtorno de ansiedade de doença e os transtornos de ansiedade induzidos (por doença ou medicamento). O que une todos eles é uma alteração no processamento do medo, gerando sofrimento ou prejuízo funcional por conta de preocupações e sintomas físicos de ansiedade. É importante, durante a consulta, discriminar os sintomas do paciente, pois frequentemente há uma confusão entre crises de ansiedade e ataques de pânico. ",
+      "Também muito ligados ao processamento do medo são os transtornos relacionados a trauma e estressores, como o transtorno do estresse agudo e o transtorno de estresse pós-traumático, que comumente acometem indivíduos já previamente ansiosos, e se desenvolvem após uma situação ameaçadora da vida ou da dignidade (trauma), tendo curso variável.",
       "O diagnóstico é clínico e o tratamento segue 3 pilares: atividade física, psicoterapia e medicação (que não tem indicação obrigatória em todos os casos). "
     ],
     "img": "/assets/img/ansiedade-panico.jpg"
@@ -10,7 +11,7 @@
   "compulsao-alimentar": {
     "header": "Compulsão alimentar",
     "text": [
-      "O transtorno da compulsão alimentar é um transtorno alimentar caracterizado por episódios frequentes de comer compulsivo, em que a pessoa se descontrola na quantidade ingesta calórica, tendo consequências físicas (indigestão, náusea, empachamento) e emocionais (sensação de culpa). É comum haver uma relação emocional conturbada com a comida, com sensação de fome em situações de estresse emocional. ",
+      "O transtorno da compulsão alimentar é um transtorno alimentar caracterizado por episódios frequentes de comer compulsivo, em que a pessoa se descontrola na quantidade da ingesta calórica, tendo consequências físicas (indigestão, náusea, empachamento abdominal) e emocionais (sensação de culpa). É comum haver uma relação emocional conturbada com a comida, com sensação de fome em situações de estresse emocional. ",
       "O diagnóstico é clínico e o tratamento é multidisciplinar, com atuação de psiquiatria, nutrição, psicologia e às vezes endocrinologia. "
     ],
     "img": "/assets/img/alimentario.jpg"
@@ -18,16 +19,16 @@
   "deficiencia-intelectual": {
     "header": "Deficiência intelectual",
     "text": [
-      "A deficiência intelectual é um transtorno do neurodesenvolvimento, isto é, manifesta-se desde o nascimento até o crescimento do indivíduo. É dividida em 3 níveis (grave, moderado e leve). Geralmente, podem ser identificadas condições perinatais (gestação e parto) que contribuíram para o transtorno, mas nem sempre. ",
-      "Caracteriza-se por um atraso global no desenvolvimento, incluindo atraso de marcha, linguagem, desfralde, aprendizagem, além de dificuldades de autonomia e independência, necessitando de um suporte para tomar decisões. ",
-      "O diagnóstico é clínico, mas exames podem ser necessários para o diagnóstico diferencial e o tratamento é interdisciplinar. A orientação de pais e escola é muito importante. "
+      "A deficiência intelectual é um transtorno do neurodesenvolvimento, isto é, manifesta-se desde o nascimento ao longo do crescimento do indivíduo. É dividida em 3 níveis (grave, moderado e leve). Geralmente, podem ser identificadas condições perinatais (gestação e parto) que contribuíram para o transtorno, mas nem sempre. ",
+      "Caracteriza-se por um atraso global no desenvolvimento, incluindo atraso de marcha, linguagem, desfralde e aprendizagem, além de dificuldades de autonomia e independência, havendo necessidade de um suporte para tomar decisões. ",
+      "O diagnóstico é clínico, mas exames podem ser necessários para o diagnóstico diferencial e o tratamento é interdisciplinar. A orientação de pais e de escola é muito importante. "
     ],
     "img": ""
   },
   "depressao": {
     "header": "Depressão",
     "text": [
-      "O transtorno depressivo maior pode ocorrer em indivíduos a partir dos 2 anos de idade e tende a se manifestar na forma de episódios ao longo da vida, podendo ser um episódio único, ou vários (transtorno depressivo recorrente), ou um episódio que se cronifica (transtorno depressivo persistente). O episódio caracteriza-se por uma quebra para baixo no humor habitual da pessoa, que se mantém por mais de 2 semanas, acompanhado de falta de prazer nas atividades previamente satisfatórias, desânimo, falta de energia, alterações de sono e apetite (para mais ou para menos), dificuldades de concentração, pensamentos de morte e ideação suicida.  ",
+      "O transtorno depressivo maior pode ocorrer em indivíduos a partir da primeira infância e tende a se manifestar na forma de episódios ao longo da vida, podendo ser um episódio único, ou vários (transtorno depressivo recorrente), ou um episódio que se cronifica (transtorno depressivo persistente). O episódio caracteriza-se por uma quebra para baixo no humor habitual da pessoa, que se mantém por mais de 2 semanas, acompanhado de falta de prazer nas atividades previamente satisfatórias, desânimo, falta de energia, alterações de sono e apetite (para mais ou para menos), dificuldades de concentração, pensamentos de morte e ideação suicida.  ",
       "Algumas particularidades existem em faixas etárias específicas: nas crianças, é mais frequente humor irritado em vez de humor deprimido; nos adolescentes, é frequente haver instabilidade emocional e autolesão; nos idosos, é frequente haver sintomas cognitivos (dificuldades de memória e vocabulário). ",
       "O diagnóstico é clínico e é muito importante descartar transtorno afetivo bipolar para eleger o tratamento, assim como identificar comorbidades. O tratamento segue 3 pilares: atividade física, psicoterapia e medicação (que não tem indicação obrigatória em todos os casos). ",
       "A depressão é um dos transtornos mentais que mais impacta as taxas de suicídio na população, portanto a intervenção precoce é muito importante. "
@@ -37,41 +38,44 @@
   "esquizofrenia": {
     "header": "Esquizofrenia e outros transtornos psicóticos",
     "text": [
-      "A esquizofrenia é um transtorno que se inicia desde o nascimento, mas tende a se manifestar entre os 18 – 35 anos. Quando se manifesta antes dos 18 anos, é considerada de início precoce. É caracterizada por episódios de sintomas psicóticos (delírios e alucinações) que tendem a ocorrer após algum gatilho ambiental (uso de droga ou trauma emocional), e sintomas negativos presentes ao longo de toda a vida da pessoa (isolamento social, falta de motivação, falta de iniciativa, pensamento mais empobrecido ou fantasioso, dificuldades de comunicação, aprendizagem e interação). ",
-      "O diagnóstico é clínico, mas precisa de diagnóstico diferencial com exames laboratoriais e neuroimagem. O tratamento é puramente medicamentoso, mas se beneficia de complementação com psicoterapia, terapia ocupacional e atividade física. A função do medicamento antipsicótico é prevenir episódios psicóticos e, com isso, evitar o dando neurológico causado por eles a longo prazo.  "
+      "A esquizofrenia é um transtorno psicótico que tende a se manifestar entre os 18 – 35 anos. Raramente se manifesta antes dos 18 anos, então é considerada de início precoce. É caracterizada por episódios de sintomas psicóticos (delírios, alucinações, desorganização de pensamento e/ou comportamento) que tendem a ocorrer após algum gatilho ambiental (uso de droga ou trauma emocional), e sintomas negativos presentes ao longo de toda a vida da pessoa (isolamento social, falta de motivação, falta de iniciativa, pensamento mais empobrecido ou fantasioso, dificuldades de comunicação, aprendizagem e interação). ",
+      "Além da esquizofrenia, existem outros transtornos psicóticos, como: transtorno esquizoafetivo, transtorno delirante, transtorno esquizofreniforme, transtorno psicótico induzido por drogas/ medicamentos, psicose secundária a traumatismo cranioencefálico, psicose secundária a outras causas médicas (como câncer e doenças autoimunes) e transtorno psicótico breve.",
+      "O diagnóstico é clínico, mas é mandatório realizar o diagnóstico diferencial com exames laboratoriais e neuroimagem para descartar causas orgânicas graves de psicose. O tratamento é essencialmente medicamentoso, mas se beneficia de complementação com psicoterapia, terapia ocupacional e atividade física. A função do medicamento antipsicótico é prevenir episódios psicóticos e, com isso, evitar o dando neurológico causado por eles a longo prazo.  "
     ],
     "img": ""
   },
   "outros-transtornos": {
     "header": "Outros transtornos do neurodesenvolvimento ",
     "text": [
-      "Além do TEA, TDAH e da deficiência intelectual, existem os transtornos do desenvolvimento da linguagem (t. da fala, t. da fluência, t.da comunicação social), do desenvolvimento motor (t. do desenvolvimento da coordenação motora, t. Do movimento estereotipado, t. De tique, t. De Tourette) e da aprendizagem. ",
-      "O diagnóstico desses transtornos costuma ser multidisciplinar, com necessidade de avaliações de fonoaudiologia, terapia ocupacional, psicopedagogia. A abordagem terapêutica também é multidisciplinar, podendo haver uso medicamentoso non transtorno de Tourette. "
+      "Além do TEA, do TDAH e da deficiência intelectual, existem os transtornos do desenvolvimento da linguagem (transtornos de fala, de fluência, de comunicação social), os transtornos do desenvolvimento motor (transtornos de tique, de Tourette, de coordenação motora, de movimento estereotipado) e os transtornos da aprendizagem (dislexia, discalculia, transtorno de habilidades acadêmicas mistas). ",
+      "O diagnóstico desses transtornos costuma ser multidisciplinar, com necessidade de avaliações de fonoaudiologia, terapia ocupacional, psicopedagogia, e frequentemente é necessário realizar uma avaliação neuropsicológica. A abordagem terapêutica também é multidisciplinar, podendo haver uso medicamentoso nos transtornos de tique e de Tourette. "
     ],
     "img": "/assets/img/outros-transtornos.jpg"
   },
   "ta-bipolar": {
     "header": "TA bipolar",
     "text": [
-      "O transtorno afetivo bipolar é caracterizado por episódios de depressão e mania ou hipomania ao longo da vida. Os episódios são claramente marcados por uma quebra no humor e comportamento basal do individuo e duram, pelo menos, 2 semanas na depressão, 1 semana na mania e 5 dias na hipomania. ",
-      "Existem 2 tipos de transtorno afetivo bipolar, o tipo I (caracterizado por episódios de depressão e mania) e o tipo II (caracterizado por episódios de depressão e hipomania). Na mania, pode haver sintomas psicóticos (alucinações e delírios), o que torna o quadro mais grave e com necessidade mais rápida de intervenção. ",
-      "O diagnóstico é clínico e o tratamento é puramente medicamentoso, acompanhado de psicoterapia e atividade física. O objetivo do medicamento estabilizador de humor é manter o humor em equilíbrio, prevenindo novos episódios e, com isso, evitar o dando neurológico causado por eles a longo prazo.  "
+      "O transtorno afetivo bipolar é caracterizado por episódios de depressão e mania/hipomania ao longo da vida. Costumam ter início na fase adulta jovem, mas raros casos iniciam-se na infância ou na meia idade. Os episódios são claramente marcados por uma quebra no humor e no comportamento basal do individuo e duram, pelo menos, 2 semanas na depressão, 1 semana na mania e 5 dias na hipomania. ",
+      "Existem 2 tipos de transtorno afetivo bipolar, o tipo I (caracterizado por episódios de depressão e mania) e o tipo II (caracterizado por episódios de depressão e hipomania). Além desses tipos clássicos, alguns pacientes podem ciclar entre um polo e outro de forma mais rápida, caracterizando a ciclotimia. Tanto na mania quanto na depressão, pode haver sintomas psicóticos (alucinações e delírios), o que torna o quadro mais grave e com necessidade mais rápida de intervenção. ",
+      "O diagnóstico é clínico e precisa levar em conta o diagnóstico diferencial apropriado para cada faixa etária. Por exemplo, quando iniciado na meia idade, é importante fazer pesquisa de quadros neurocognitivos (demências); na infância, é frequente a confusão diagnóstica com TOD e TDAH e, na fase adulta, é frequente a confusão diagnóstica com transtorno de personalidade borderline. Além disso, vários medicamentos, drogas e outras doenças (por exemplo, endocrinopatias) podem causar quadros similares a bipolaridade, portanto é necessário que o psiquiatra avalie com muita cautela todos esses fatores.",
+      " O tratamento é essencialmente medicamentoso, acompanhado de psicoterapia e atividade física. O objetivo do medicamento estabilizador de humor é manter o humor em equilíbrio, prevenindo novos episódios e, com isso, evitar o dando neurológico causado por eles a longo prazo.  "
     ],
     "img": "/assets/img/bipolar.jpg"
   },
   "tdah": {
     "header": "TDAH",
     "text": [
-      "O transtorno do déficit de atenção, hiperatividade e impulsividade é um diagnóstico do neurodesenvolvimento, isto é, presente desde o nascimento com manifestações ao longo do crescimento do indivíduo. Caracteriza-se por dificuldades de atenção, controle inibitório, regulação emocional, agitação, que causam prejuízo funcional em mais de dois ambientes. ",
-      "O diagnóstico é clínico e realizado a partir dos 5 anos de idade. O tratamento é principalmente medicamentoso, a depender da demanda do indivíduo, além de contar com um papel muito importante de atividade física. "
+      "O transtorno do déficit de atenção, hiperatividade e impulsividade é um diagnóstico do neurodesenvolvimento, isto é, presente desde o nascimento com manifestações ao longo do crescimento do indivíduo. Caracteriza-se por dificuldades de atenção, controle inibitório, regulação emocional e memória de curta prazo, além de agitação e impaciência, que causam prejuízo funcional em mais de dois ambientes. ",
+      "O diagnóstico é clínico e realizado a partir dos 5 anos de idade. O tratamento conta com estratégias não medicamentosas e medicamentosas, sendo o uso de psicoestimulante liberado a partir de 6 anos de idade quando há indicação. A atividade física desempenha um papel muito importante no tratamento. "
     ],
     "img": "/assets/img/tdah.jpg"
   },
   "tea": {
     "header": "TEA",
     "text": [
-      "O Transtorno do Espectro Autista é um transtorno do neurodesenvolvimento, isto é, presente desde o nascimento com manifestações ao longo do crescimento do indivíduo. A compreensão mais atualizada desse transtorno engloba todas as denominações antigas como “síndrome de Asperger”, “síndrome de Savan”, “autismo infantil” em apenas um diagnóstico amplo, que abarca um espectro de níveis diferentes de suporte (1, 2 e 3).",
-      "O TEA manifesta-se em alterações em basicamente 3 domínios: comunicação, interação social e padrão restrito de interesses e comportamentos. O diagnóstico é clínico, mas às vezes podem ser solicitados exames para diagnóstico diferencial e avaliação neuropsicológica para ampliar o entendimento. O tratamento é multifatorial e interdisciplinar.  "
+      "O Transtorno do Espectro Autista é um transtorno do neurodesenvolvimento, isto é, presente desde o nascimento com manifestações ao longo do crescimento do indivíduo. A compreensão mais atualizada desse transtorno engloba todas as denominações antigas como “síndrome de Asperger”, “síndrome de Savant”, “autismo infantil” em apenas um diagnóstico amplo, que abarca um espectro de níveis diferentes de suporte (1, 2 e 3).",
+      "O TEA manifesta-se em alterações em basicamente 3 domínios: 1) comunicação (pode haver ou não atraso de fala, há dificuldades em abstrair significados e entrelinhas do discurso, a fala é estereotipada e muito concreta), 2) socialização (costuma haver dificuldades para socializar com os pares devido a isolamento ou interação inapropriada por não reconhecer regras sociais ou por rigidez cognitiva) e 3) padrão restrito de interesses e comportamentos (apego a rotinas, rigidez cognitiva, estereotipias e maneirismos, autoagressão regulatória, alterações sensoriais).",
+      " O diagnóstico é clínico, mas às vezes podem ser solicitados exames para diagnóstico diferencial e avaliação neuropsicológica para ampliar o entendimento. O tratamento é multifatorial e interdisciplinar.  "
     ],
     "img": "/assets/img/tea.jpg"
   },
@@ -80,7 +84,7 @@
     "text": [
       "O transtorno obsessivo compulsivo é caracterizado por obsessões (pensamentos/ imagens/ sensações que invadem o indivíduo com uma sensação de urgência e “ter que”) e compulsões (comportamentos/ rituais/ respostas que precisam ser realizadas para neutralizar a obsessão). Tais sintomas atrapalham a vida da pessoa e/ou trazem muito sofrimento emocional. É frequente haver comorbidade com depressão ou transtornos ansiosos. ",
       "Há outros transtornos relacionados ao TOC, como o transtorno de escoriação, o transtorno de acumulação e a tricotilomania.",
-      "O diagnóstico e clínico e o tratamento segue 3 pilares: medicação, atividade física, psicoterapia. "
+      "O diagnóstico é clínico e o tratamento segue 3 pilares: medicação, atividade física, psicoterapia. "
     ],
     "img": "/assets/img/toc.jpg"
   },
@@ -95,7 +99,7 @@
   "transtornos-neuro": {
     "header": "Transtornos neurocognitivos",
     "text": [
-      "Os transtornos neurocognitivos (antigamente chamados de demências) acometem alguns indivíduos no processo de envelhecimento, trazendo sintomas cognitivos (perda de memória e de vocabulário, perda de outras faculdades mentais previamente aprendidas), sintomas psicóticos (delírios e alucinações) e sintomas de humor (depressão, irritabilidade). São várias etiologias e tipos possíveis, sendo os principais a demência de Alzheimer, a demência vascular, a demência frontotemporal, a demência por corpúsculos de Lewy e a demência da doença de Parkinson.",
+      "Os transtornos neurocognitivos (também chamados de demências) acometem alguns indivíduos no processo de envelhecimento, trazendo sintomas cognitivos (perda de memória e de vocabulário, perda de outras faculdades mentais previamente aprendidas), sintomas psicóticos (delírios e alucinações) e sintomas de humor (depressão, irritabilidade). São várias etiologias e tipos possíveis, sendo os principais a demência de Alzheimer, a demência vascular, a demência frontotemporal, a demência por corpúsculos de Lewy e a demência da doença de Parkinson.",
       "O diagnóstico diferencial com exames laboratoriais e neuroimagem é importante para descartar causas reversíveis de sintomas neurocognitivos, como hidrocefalia, neurossífilis, encefalites infecciosas ou autoimunes etc. ",
       "O diagnóstico é clínico acompanhado por neuroimagem e o tratamento é interdisciplinar, com uso de medicação específica para cada etiologia, no intuito de retardar o processo de deterioração cognitiva, mas sem a expectativa de restaurá-lo. O acompanhamento com neurologista e psiquiatra em conjunto é benéfico. Também é importante atividade física e terapia ocupacional. "
     ],
