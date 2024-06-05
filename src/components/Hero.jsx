@@ -12,9 +12,6 @@ export default function Hero({ main }) {
               </span>
               Médica Psiquiatra
             </h1>
-            <Link to="/contato">
-              <a className="btn btn-primary pe-4 ps-4">Agende sua consulta</a>
-            </Link>
           </div>
         </div>
       </div>
