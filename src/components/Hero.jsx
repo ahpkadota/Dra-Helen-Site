@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 export default function Hero({ main }) {
   return (
-    <section className="c background-right-top bg-light opacity-100 pb-5 position-relative pt-5">
+    <section className="c background-right-top pb-5 position-relative pt-5">
       <div className="cont container mb-5 mt-5 pb-5 pt-5">
         <div className="align-items-center mb-5 mt-5 pb-5 pt-5 row">
           <div className="col-md-10 col-xl-7">
