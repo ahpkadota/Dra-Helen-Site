@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Dra-Helen-Site/static/css/main.b4a0aa55.css",
-    "main.js": "/Dra-Helen-Site/static/js/main.fb84e6d9.js",
+    "main.css": "/Dra-Helen-Site/static/css/main.ff304331.css",
+    "main.js": "/Dra-Helen-Site/static/js/main.7d4353ad.js",
     "static/js/566.bb3b0ea6.chunk.js": "/Dra-Helen-Site/static/js/566.bb3b0ea6.chunk.js",
     "static/js/629.0c490e70.chunk.js": "/Dra-Helen-Site/static/js/629.0c490e70.chunk.js",
     "static/js/828.f3e8daaa.chunk.js": "/Dra-Helen-Site/static/js/828.f3e8daaa.chunk.js",
@@ -88,11 +88,11 @@
     "static/media/bipolar.jpg": "/Dra-Helen-Site/static/media/bipolar.61be82664d7f1a5c2699.jpg",
     "static/media/mindfulness.jpg": "/Dra-Helen-Site/static/media/mindfulness.0ba94f6df5986c139de3.jpg",
     "index.html": "/Dra-Helen-Site/index.html",
-    "main.b4a0aa55.css.map": "/Dra-Helen-Site/static/css/main.b4a0aa55.css.map",
-    "main.fb84e6d9.js.map": "/Dra-Helen-Site/static/js/main.fb84e6d9.js.map"
+    "main.ff304331.css.map": "/Dra-Helen-Site/static/css/main.ff304331.css.map",
+    "main.7d4353ad.js.map": "/Dra-Helen-Site/static/js/main.7d4353ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4a0aa55.css",
-    "static/js/main.fb84e6d9.js"
+    "static/css/main.ff304331.css",
+    "static/js/main.7d4353ad.js"
   ]
 }
