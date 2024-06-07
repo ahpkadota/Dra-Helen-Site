@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[278],{2278:(p,e,s)=>{p.exports=s.p+"static/media/livro-fotopoemas2.8995dc93f91697282558.jpg"}}]);

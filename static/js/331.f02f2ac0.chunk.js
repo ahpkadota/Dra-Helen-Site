@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[331],{2331:(p,a,e)=>{p.exports=e.p+"static/media/livro-primeiros-contatos.2d26b3a544d39447a29e.jpg"}}]);

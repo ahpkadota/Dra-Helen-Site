@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[185],{7185:(p,e,s)=>{p.exports=s.p+"static/media/neurocognitivo.75bdd9c9ef394664d544.jpg"}}]);

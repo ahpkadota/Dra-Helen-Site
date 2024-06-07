@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[450],{1450:(p,a,e)=>{p.exports=e.p+"static/media/fitoterapicos.96e409530f27c4a9808a.jpg"}}]);

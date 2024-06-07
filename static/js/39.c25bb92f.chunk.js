@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[39],{4039:(p,a,e)=>{p.exports=e.p+"static/media/alimentario.63860bd884c64033fad5.jpg"}}]);

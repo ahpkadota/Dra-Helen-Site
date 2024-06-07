@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[470],{5470:(a,p,e)=>{a.exports=e.p+"static/media/animalterapia.b3b9c0a695c711e1f067.jpg"}}]);

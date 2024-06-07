@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[839],{5839:(e,p,a)=>{e.exports=a.p+"static/media/esquizofrenia.ea05b68e015a8412b5c3.jpg"}}]);

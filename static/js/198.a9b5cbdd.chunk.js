@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[198],{9198:(e,p,s)=>{e.exports=s.p+"static/media/oleos.36f3362dae3d2ff71d2e.jpg"}}]);

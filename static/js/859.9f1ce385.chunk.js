@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[859],{8859:(p,e,a)=>{p.exports=a.p+"static/media/respiracao.f9d1a56e94e105b00846.jpg"}}]);

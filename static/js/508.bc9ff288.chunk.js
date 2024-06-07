@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[508],{1508:(e,p,a)=>{e.exports=a.p+"static/media/ansiedade.8a96147e31e43bf387b1.jpg"}}]);

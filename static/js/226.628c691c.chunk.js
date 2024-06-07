@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[226],{5226:(p,e,a)=>{p.exports=a.p+"static/media/leitura.42513bda7f058001ef3c.jpg"}}]);

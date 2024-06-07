@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[991],{6991:(p,a,e)=>{p.exports=e.p+"static/media/atividade-fisica.375c2062310e1324f7f8.jpg"}}]);

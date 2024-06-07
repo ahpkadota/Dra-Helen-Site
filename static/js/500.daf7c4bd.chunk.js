@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[500],{1500:(a,p,s)=>{a.exports=s.p+"static/media/outros-transtornos.fd4e0a61a4ac64ba2b3c.jpg"}}]);

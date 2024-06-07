@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[617],{6617:(e,a,p)=>{e.exports=p.p+"static/media/raiva.3c8a8e7e017be25fae44.jpg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[963],{4963:(e,p,a)=>{e.exports=a.p+"static/media/DEPRhelen-main.f49e08db06446a0e62e8.jpg"}}]);

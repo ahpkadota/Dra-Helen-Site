@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[195],{3195:(a,c,e)=>{a.exports=e.p+"static/media/deficiencia-intelectual.4ac14172d1dffccbaca8.jpg"}}]);
