@@ -1,6 +1,7 @@
 import "./CarouselStyles.css"; // Ensure this path matches your file structure
 
 export default function Carousel({ imgs }) {
+
   function CarouselMain() {
     let id = "carousel1";
     return (
@@ -63,10 +64,10 @@ export default function Carousel({ imgs }) {
               Sobre A Dra. Helen&nbsp;
             </h2>
             <p className="mb-4">
-              Médica formada pela USP - Ribeirão Preto (CRM 201232), com residência médica em
-              Psiquiatria pelo Hospital das Clínicas da USP - Ribeirão Preto (RQE 98861);
-              pós-graduada em Psiquiatria Forense pelo Instituto de Psiquiatria
-              (IPQ) da USP - São Paulo.
+              Médica formada pela USP - Ribeirão Preto (CRM 201232), com
+              residência médica em Psiquiatria pelo Hospital das Clínicas da USP
+              - Ribeirão Preto (RQE 98861); pós-graduada em Psiquiatria Forense
+              pelo Instituto de Psiquiatria (IPQ) da USP - São Paulo.
             </p>
             <p className="mb-4">
               Docente e preceptora no curso de Medicina da Universidade Anhembi

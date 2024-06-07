@@ -1,6 +1,5 @@
 import treatments from "../data/content.json";
 import { Link } from "react-router-dom";
-import icon from "../assets/img/icons/ansiedade-panico.png";
 import React, { useState, useEffect } from "react";
 import styles from "./TreatList.module.css"
 

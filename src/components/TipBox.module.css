@@ -1,0 +1,7 @@
+.img-fit {
+    width: 540px;  /* Fixed width */
+    height: 360px; /* Fixed height */
+    object-fit: cover; /* Resize and crop the image as needed to cover the space */
+    object-position: center; /* Center the image within the element's box */
+  }
+  

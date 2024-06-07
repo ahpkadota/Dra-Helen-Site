@@ -4,64 +4,64 @@
     {
       "title": "Raiva",
       "content": "Tente contar até 10 mentalmente antes de agir/ falar (isso nos ajuda a não cair na reação sem pensar)",
-      "icon": ""
+      "icon": "raiva.jpg"
     },
     {
       "title": "Ansiedade",
       "content": "Tente fazer exercícios de respiração consciente (inspire em 3 segundos e expire em 6 segundos durante 5 minutos); ou tente sair para uma corrida em torno do seu quarteirão",
-      "icon": ""
+      "icon": "ansiedade.jpg"
     },
     {
       "title": "Tristeza",
       "content": "Tente fazer uma ação de autocuidado, como: tomar um banho aconchegante, comer um alimento que você aprecia muito, fazer uma automassagem com um creme hidratante de que você gosta, ver um  filme que você ama",
-      "icon": ""
+      "icon": "tristeza.jpg"
     },
     {
       "title": "Confusão e angústia",
       "content": "Se não consegue entender o que está sentindo, mas é muito desconfortável, tente escrever num papel o que está sentindo ou pensando no momento ou fazer um  desenho",
-      "icon": ""
+      "icon": "confusao.jpg"
     },
     {
       "title": "Vontade de se machucar",
       "content": "Tente fazer um estímulo vigoroso em seu corpo que não cause dano, como: entrar numa ducha fria, passar gelo na pele do braço, pular corda por 5 minutos.",
-      "icon": ""
+      "icon": "vontade.jpg"
     }
   ],
   "activities": [
     {
       "title": "Atividade física",
       "content": "A atividade física é SEMPRE uma poderosa parceira no tratamento de TODOS os transtornos mentais. Ela traz muitos benefícios psíquicos e físicos que são importantes aliados no processo terapêutico. Basicamente qualquer esporte é indicado, a depender das preferências e conveniências de cada um, mas aqui vão algumas dicas se você ainda não tentou nada ou não conhece o seu perfil de atividade física. Para transtornos ansiosos: exercícios aeróbicos, como dança, yoga, atletismo, treino funcional, natação, artes marciais. Para transtorno do espectro autista: esportes na água.",
-      "icon": ""
+      "icon": "atividade-fisica.jpg"
     },
     {
       "title": "Leitura",
       "content": "A leitura pode auxiliar muito no tratamento dos transtornos mentais, tanto com o objetivo de psicoeducação (aprender sobre transtornos mentais), quanto com o objetivo de se identificar com pessoais que já passaram ou estão passando por isso, ajudando a seguir em frente. Algumas dicas de livros e filmes estão presentes no meu instagram: @livrosepsiquiatria",
-      "icon": ""
+      "icon": "leitura.jpg"
     },
     {
       "title": "Mindfulness",
       "content": "O mindfulness ou atenção plena tem mostrado benefícios no tratamento de depressão, transtornos de ansiedade e compulsão alimentar em uma série de estudos científicos. Existem programas e cursos de atenção plena que você pode procurar, mas também existem aplicativos de celular como Lojong, Aura, Omvana etc., que possuem exercícios diários de meditação guiada que ajudam na respiração consciente, no comer consciente e no desenvolvimento de atenção plena em nosso cotidiano, auxiliando-nos a sair do “piloto automático”.",
-      "icon": ""
+      "icon": "mindfulness.jpg"
     },
     {
       "title": "Respiração consciente",
       "content": "Existem vários tipos de respiração consciente. Na prática do yoga, eles são chamados de “pranayamas” e há uma infinidade deles, cada um com um benefício. Um tipo muito simples de exercício de respiração que pode auxiliar durante uma crise de ansiedade ou um ataque de pânico é: inspire (puxe o ar) em 3 segundos; segure o ar nos pulmões por 3 segundos; expire (solte o ar) por 6 segundos; segure os pulmões esvaziados por 3 segundos e recomece. Faça essa sequência por cerca de 5 minutos, até se sentir calmo (isso regulará sua frequência cardiorrespiratória)",
-      "icon": ""
+      "icon": "respiracao.jpg"
     },
     {
       "title": "Fitoterápicos",
       "content": "Alguns fitoterápicos possuem algumas evidências no tratamento de transtornos ansiosos, e podem ser usados quando o paciente tem um quadro leve e muita resistência a fazer uso de psicofármacos.",
-      "icon": ""
+      "icon": "fitoterapicos.jpg"
     },
     {
       "title": "Óleos essenciais",
       "content": "O óleo essencial de lavanda tem mostrado benefício no tratamento de transtornos ansiosos. Pode ser usado em blend e colocado no travesseiro ou na roupa para que a pessoa exale durante o dia/à noite. No entanto, deve ser um complemento do tratamento e não usado como único recurso, exceto em casos muito leves.",
-      "icon": ""
+      "icon": "oleos.jpg"
     },
     {
       "title": "Interação com animais e natureza",
       "content": "A interação com animais tem sido estudada em diversos cenários de serviços de saúde, com estudos mostrando benefícios desde a recuperação de pacientes em unidade de cuidados intensivos até a reabilitação de crianças neurodivergentes (com TEA, TDAH, deficiência intelectual etc.). Sem dúvida, cuidar e interagir com animais é positivo para todo ser humano, mas pode ser parte ativa do desenvolvimento de habilidades de socialização em crianças com essas dificuldades por exemplo. Alem disso, vários estudos mostram índices menores de ansiedade e depressão em pessoas que moram próximas a áreas de parques ricos em vegetação e lagos, o que indica que o contato com a natureza é importante para nossa saúde mental. ",
-      "icon": ""
+      "icon": "animalterapia.jpg"
     }
   ]
 }

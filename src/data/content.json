@@ -23,7 +23,7 @@
       "Caracteriza-se por um atraso global no desenvolvimento, incluindo atraso de marcha, linguagem, desfralde e aprendizagem, além de dificuldades de autonomia e independência, havendo necessidade de um suporte para tomar decisões. ",
       "O diagnóstico é clínico, mas exames podem ser necessários para o diagnóstico diferencial e o tratamento é interdisciplinar. A orientação de pais e de escola é muito importante. "
     ],
-    "img": ""
+    "img": "/assets/img/deficiencia-intelectual.jpg"
   },
   "depressao": {
     "header": "Depressão",
@@ -42,7 +42,7 @@
       "Além da esquizofrenia, existem outros transtornos psicóticos, como: transtorno esquizoafetivo, transtorno delirante, transtorno esquizofreniforme, transtorno psicótico induzido por drogas/ medicamentos, psicose secundária a traumatismo cranioencefálico, psicose secundária a outras causas médicas (como câncer e doenças autoimunes) e transtorno psicótico breve.",
       "O diagnóstico é clínico, mas é mandatório realizar o diagnóstico diferencial com exames laboratoriais e neuroimagem para descartar causas orgânicas graves de psicose. O tratamento é essencialmente medicamentoso, mas se beneficia de complementação com psicoterapia, terapia ocupacional e atividade física. A função do medicamento antipsicótico é prevenir episódios psicóticos e, com isso, evitar o dando neurológico causado por eles a longo prazo.  "
     ],
-    "img": ""
+    "img": "/assets/img/esquizofrenia.jpg"
   },
   "outros-transtornos": {
     "header": "Outros transtornos do neurodesenvolvimento ",
@@ -103,6 +103,6 @@
       "O diagnóstico diferencial com exames laboratoriais e neuroimagem é importante para descartar causas reversíveis de sintomas neurocognitivos, como hidrocefalia, neurossífilis, encefalites infecciosas ou autoimunes etc. ",
       "O diagnóstico é clínico acompanhado por neuroimagem e o tratamento é interdisciplinar, com uso de medicação específica para cada etiologia, no intuito de retardar o processo de deterioração cognitiva, mas sem a expectativa de restaurá-lo. O acompanhamento com neurologista e psiquiatra em conjunto é benéfico. Também é importante atividade física e terapia ocupacional. "
     ],
-    "img": ""
+    "img": "/assets/img/neurocognitivo.jpg"
   }
 }
