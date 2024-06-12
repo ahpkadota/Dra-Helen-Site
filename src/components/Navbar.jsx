@@ -58,7 +58,7 @@ export default function Navbar() {
               <ul className="me-auto navbar-nav">
                 <li className="nav-item">
                   <Link className="link-dark nav-link p-lg-3" to="/">
-                    INICIO
+                    INÍCIO
                   </Link>
                 </li>
                 <li className="nav-item">
