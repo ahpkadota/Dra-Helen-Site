@@ -6,7 +6,7 @@ export default function Certifications() {
   return (
     <section className="bg-light pb-5 pt-5 text-center">
       <div className="container">
-        <h2 className="fw-bold mb-4">Certificaçoes</h2>
+        <h2 className="fw-bold mb-4">Certificações</h2>
         <div className="g-2 justify-content-center row row-cols-lg-4 row-cols-sm-2">
           <div>
             <div className="bg-white pb-4 ps-3 pe-3 pt-4">

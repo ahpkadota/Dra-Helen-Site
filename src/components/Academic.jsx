@@ -57,7 +57,7 @@ export default function Academic({ academic, imgs }) {
     <section className="bg-light pb-5 pt-5 text-center text-lg-start">
       <div className="container pb-4 pt-4">
         <div className="align-items-center row">
-          <h2 className="display-4 fw-bold text-primary">Formaçao Academica</h2>
+          <h2 className="display-4 fw-bold">Formação Acadêmica</h2>
           <div className="col-lg-6 p-5 text-center">
             <CarouselMain></CarouselMain>
           </div>
