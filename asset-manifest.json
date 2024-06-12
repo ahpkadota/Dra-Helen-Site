@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Dra-Helen-Site/static/css/main.ff304331.css",
-    "main.js": "/Dra-Helen-Site/static/js/main.7d4353ad.js",
+    "main.css": "/Dra-Helen-Site/static/css/main.9910716b.css",
+    "main.js": "/Dra-Helen-Site/static/js/main.a4df5d82.js",
     "static/js/566.bb3b0ea6.chunk.js": "/Dra-Helen-Site/static/js/566.bb3b0ea6.chunk.js",
     "static/js/629.0c490e70.chunk.js": "/Dra-Helen-Site/static/js/629.0c490e70.chunk.js",
     "static/js/828.f3e8daaa.chunk.js": "/Dra-Helen-Site/static/js/828.f3e8daaa.chunk.js",
@@ -44,7 +44,7 @@
     "static/js/119.3f2af794.chunk.js": "/Dra-Helen-Site/static/js/119.3f2af794.chunk.js",
     "static/js/240.b5e49845.chunk.js": "/Dra-Helen-Site/static/js/240.b5e49845.chunk.js",
     "static/js/43.245bf5f1.chunk.js": "/Dra-Helen-Site/static/js/43.245bf5f1.chunk.js",
-    "static/js/348.70ec566a.chunk.js": "/Dra-Helen-Site/static/js/348.70ec566a.chunk.js",
+    "static/js/348.921f43ac.chunk.js": "/Dra-Helen-Site/static/js/348.921f43ac.chunk.js",
     "static/js/819.8b7e9d1b.chunk.js": "/Dra-Helen-Site/static/js/819.8b7e9d1b.chunk.js",
     "static/media/helen4.jpg": "/Dra-Helen-Site/static/media/helen4.f755add78a3d088337b2.jpg",
     "static/media/helen-academic3.jpg": "/Dra-Helen-Site/static/media/helen-academic3.42ac0d686f5ad4237119.jpg",
@@ -70,6 +70,7 @@
     "static/media/livro-primeiros-contatos.jpg": "/Dra-Helen-Site/static/media/livro-primeiros-contatos.2d26b3a544d39447a29e.jpg",
     "static/media/toc.jpg": "/Dra-Helen-Site/static/media/toc.20e3bcca0529627eaf01.jpg",
     "static/media/tea.jpg": "/Dra-Helen-Site/static/media/tea.7f53937ab4b3f9623c52.jpg",
+    "static/media/tristeza.jpg": "/Dra-Helen-Site/static/media/tristeza.a2b96d6e6b9905785c7a.jpg",
     "static/media/oleos.jpg": "/Dra-Helen-Site/static/media/oleos.36f3362dae3d2ff71d2e.jpg",
     "static/media/confusao.jpg": "/Dra-Helen-Site/static/media/confusao.ba7f5630fbb0ca6edb45.jpg",
     "static/media/esquizofrenia.jpg": "/Dra-Helen-Site/static/media/esquizofrenia.ea05b68e015a8412b5c3.jpg",
@@ -88,11 +89,11 @@
     "static/media/bipolar.jpg": "/Dra-Helen-Site/static/media/bipolar.61be82664d7f1a5c2699.jpg",
     "static/media/mindfulness.jpg": "/Dra-Helen-Site/static/media/mindfulness.0ba94f6df5986c139de3.jpg",
     "index.html": "/Dra-Helen-Site/index.html",
-    "main.ff304331.css.map": "/Dra-Helen-Site/static/css/main.ff304331.css.map",
-    "main.7d4353ad.js.map": "/Dra-Helen-Site/static/js/main.7d4353ad.js.map"
+    "main.9910716b.css.map": "/Dra-Helen-Site/static/css/main.9910716b.css.map",
+    "main.a4df5d82.js.map": "/Dra-Helen-Site/static/js/main.a4df5d82.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff304331.css",
-    "static/js/main.7d4353ad.js"
+    "static/css/main.9910716b.css",
+    "static/js/main.a4df5d82.js"
   ]
 }

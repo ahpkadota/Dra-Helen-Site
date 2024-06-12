@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[348],{9348:(p,a,e)=>{p.exports=e.p+"static/media/tristeza.a2b96d6e6b9905785c7a.jpg"}}]);
