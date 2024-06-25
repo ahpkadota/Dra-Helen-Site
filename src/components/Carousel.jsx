@@ -1,7 +1,6 @@
 import "./CarouselStyles.css"; // Ensure this path matches your file structure
 
 export default function Carousel({ imgs }) {
-
   function CarouselMain() {
     let id = "carousel1";
     return (

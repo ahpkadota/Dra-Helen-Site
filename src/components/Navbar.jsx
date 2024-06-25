@@ -84,7 +84,7 @@ export default function Navbar() {
                     data-bs-toggle="dropdown"
                     aria-expanded="false"
                   >
-                    Dicas
+                    Dicassss
                   </Link>
                   <ul className="dropdown-menu text-small shadow">
                     <Link className="dropdown-item" to="/atividades">

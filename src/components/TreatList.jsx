@@ -1,24 +1,29 @@
 import treatments from "../data/content.json";
 import { Link } from "react-router-dom";
 import React, { useState, useEffect } from "react";
-import styles from "./TreatList.module.css"
+import styles from "./TreatList.module.css";
+import useImage from "../hooks/useImage";
+
+// Create a context for the icons
+const iconsContext = require.context('../assets/img/icons', false, /\.png$/);
+
+// Create an object to map icon names to their paths
+const icons = iconsContext.keys().reduce((icons, key) => {
+  const iconName = key.match(/\.\/(.*)\.png$/)[1];
+  icons[iconName] = iconsContext(key);
+  return icons;
+}, {});
 
 export default function TreatList() {
-  async function loadIcon(iconName) {
-    try {
-      const icon = await import(`../assets/img/icons/${iconName}.png`);
-      return icon.default;
-    } catch (error) {
-      console.error(`Icon loading failed for ${iconName}:`, error);
-      return null; // or a default icon
-    }
+  function loadIcon(iconName) {
+    return icons[iconName] ? icons[iconName] : null; // return the icon path or null if not found
   }
 
   function TreatmentItem({ title, path }) {
     const [icon, setIcon] = useState(null);
-
+    const { loading, error, image } = useImage("assets/img/icons/"+path+".png")
     useEffect(() => {
-      loadIcon(path).then(setIcon);
+      setIcon(loadIcon(path));
     }, [path]);
 
     return (
@@ -26,7 +31,7 @@ export default function TreatList() {
         <div className="pb-3 pt-3 text-center">
           <Link to={`/${path}`}>
             <div className="bg-white border border-primary d-inline-block mb-4 p-4 rounded-circle">
-              <img src={icon} alt={title} className={styles.icon}/>
+              {icon && <img src={image} alt={title} className={styles.icon}/>}
             </div>
           </Link>
           <h4 className="fw-bold h6 text-dark">{title}</h4>
@@ -39,13 +44,15 @@ export default function TreatList() {
     let list = Object.keys(treatments).map((treatment) => {
       return (
         <TreatmentItem
+          key={treatment}
           title={treatments[treatment].header}
           path={treatment}
-        ></TreatmentItem>
+        />
       );
     });
     return list;
   }
+
   return (
     <section className="bg-light pb-5 pt-5">
       <div className="container pb-5 pt-5">
@@ -55,7 +62,7 @@ export default function TreatList() {
           </div>
         </div>
         <div className="row">
-          <TreatmentList></TreatmentList>
+          <TreatmentList />
         </div>
       </div>
     </section>

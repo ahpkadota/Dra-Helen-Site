@@ -21,15 +21,15 @@ code {
   right: 0;
   bottom: 0;
   background-image: url("assets/img/helen-main.jpg"); 
-  background-size: cover; /* Adjust as needed */
+  background-size: cover;
   background-color: black;
-  opacity: 0.7; /* Adjust opacity */
-  z-index: 0; /* Ensure this appears behind other content */
+  opacity: 0.7;
+  z-index: 0;
 }
 
 .cont {
   position: relative;
-  z-index: 1; /* Keep content above the pseudo-element */
-  color: white; /* Adjust text color for readability */
+  z-index: 1;
+  color: white;
   padding: 10px;
 }
